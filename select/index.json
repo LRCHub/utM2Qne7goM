@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泣き虫のコーダ",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-03-09T21:03:51.607017Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣き虫のコーダ",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_泣き虫のコーダ_パスピエ.txt"
+    }
+  ]
+}
